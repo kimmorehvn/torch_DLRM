@@ -1,0 +1,9 @@
+future
+numpy
+pydot
+torchviz
+scikit-learn
+tqdm
+torchrec-nightly
+torchx-nightly
+tensorboard
